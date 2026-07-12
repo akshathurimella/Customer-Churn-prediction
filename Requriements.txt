@@ -1,0 +1,11 @@
+
+
+1.pandas
+2.numpy
+3.logistic regression
+4.random forest classification
+5.xgboost
+6.matplotlib
+7.seaborn
+8.scikit-learn
+9.jupyter
